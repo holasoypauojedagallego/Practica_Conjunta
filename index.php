@@ -42,7 +42,7 @@
 
 <?php include ("includes/templates/header.php"); ?>
 
-
+  <p>Hola</p>
   <main class="main">
 
 
